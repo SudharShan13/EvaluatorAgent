@@ -1,0 +1,55 @@
+[
+    {
+      "student_name": "John Doe",
+      "subject": "Mathematics",
+      "performance_data": {
+        "grades": {
+          "midterm": 85,
+          "final": 90
+        },
+        "comments": "Hardworking student"
+      },
+      "assignment_data": {
+        "name": "Assignment 1",
+        "grade": 88,
+        "feedback": "Well done!"
+      },
+      "attendance_data": {
+        "percentage": 92
+      },
+      "participation_data": {
+        "level": "active"
+      },
+      "questions": [
+        "How can I improve my performance?",
+        "Any suggestions for the next assignment?"
+      ]
+    },
+    {
+      "student_name": "Jane Smith",
+      "subject": "Science",
+      "performance_data": {
+        "grades": {
+          "midterm": 78,
+          "final": 85
+        },
+        "comments": "Shows improvement"
+      },
+      "assignment_data": {
+        "name": "Lab Report",
+        "grade": 92,
+        "feedback": "Excellent analysis!"
+      },
+      "attendance_data": {
+        "percentage": 95
+      },
+      "participation_data": {
+        "level": "active"
+      },
+      "questions": [
+        "Could you clarify a concept from the lecture?",
+        "Is there additional reading material for the next topic?"
+      ]
+    }
+  ]
+  

@@ -1,0 +1,5 @@
+Evaluate the performance of John Doe in Mathematics. They scored 85 in the midterm and 90 in the final. Comments: Hardworking student. Assignment: Assignment 1 - Grade: 88 - Feedback: Well done!. Attendance: 92%. Participation: active. Questions: How can I improve my performance?, Any suggestions for the next assignment?.
+
+Evaluate the performance of Jane Smith in Science. They scored 78 in the midterm and 85 in the final. Comments: Shows improvement. Assignment: Lab Report - Grade: 92 - Feedback: Excellent analysis!. Attendance: 95%. Participation: active. Questions: Could you clarify a concept from the lecture?, Is there additional reading material for the next topic?.
+
+Evaluate my(John Doe) performance in Mathematics. I scored 85 in the midterm and 90 in the final. Comments: Hardworking student. Assignment: Assignment 1 - Grade: 88 - Feedback: Well done!. Attendance: 92%. Participation: active. Questions: How can I improve my performance?, Any suggestions for the next assignment?.
